@@ -15,7 +15,7 @@ DIFFERENT MICROSERVICE:
 1. FligthAndSearchService:https://github.com/sanjay-09/FlightsAndSearchRepository
 2. AuthService:https://github.com/sanjay-09/Auth_Service
 3. BookingService:https://github.com/sanjay-09/Booking-Service
-4. ReminderService:https://github.com/sanjay-09/ReminderService1/blob/main/src/utils/job.js
+4. ReminderService:https://github.com/sanjay-09/ReminderService1
 5. API Gateway:https://github.com/sanjay-09/API_Gateway
 
 
