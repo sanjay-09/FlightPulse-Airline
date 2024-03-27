@@ -8,7 +8,7 @@ Non-Functional Requirements:
 1. To prevent conflicts and inconsistencies, the application incorporates Transaction Isolation Level, which ensures that no two users can simultaneously book the same seat.
 2. To avoid unintended consequences and accidental duplicate calls during the payment process, the payment gateway implements Idempotency APIs.
 
-High Level Design : https://asset.cloudinary.com/de8cqi7gx/f5d097ebf8878687ca4c3ca73de9c3a2
+High Level Design : https://app.eraser.io/workspace/RYLiisVgmglj6g5iu9ku?origin=share
 
 
 DIFFERENT MICROSERVICE:
